@@ -1,4 +1,4 @@
-# PS4E7_Kaggle
+# PS4_Kaggle
 Kaggle Playground Serious 4 Episode 7 : Binary Classification of Insurance Cross Selling
 
 [Leaderboard](https://www.kaggle.com/competitions/playground-series-s4e7/leaderboard#)
